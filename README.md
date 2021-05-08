@@ -41,7 +41,9 @@ Replace the line `"default": "your_project__name"` & save.
 #### 5: After initialization Completed. Enter 
 `npm run build`
 
-#### 6: Now the last command
+#### 6: Click 'No' in the option which says "Set up automatic builds and deploys with Github".
+
+#### 7: Now the last command
 Enter `firebase deploy`
 
 #### Boom! You have succesfully hosted your firebase app. Click on the link and Enjoy!. Don't forget to rate the repository.
