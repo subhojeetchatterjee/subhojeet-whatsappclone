@@ -47,3 +47,8 @@ Replace the line `"default": "your_project__name"` & save.
 Enter `firebase deploy`
 
 #### Boom! You have succesfully hosted your firebase app. Click on the link and Enjoy!. Don't forget to rate the repository.
+
+*Live Demo*
+
+https://whatsappclone-2ccf8.web.app
+
